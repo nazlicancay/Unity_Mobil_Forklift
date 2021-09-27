@@ -1,7 +1,7 @@
 # Unity Mobil Forklift Game
 Basit bir Forklift aracı ile belirli kutu objelerinin engelleri aşarak bir yerden bir yere taşınması sağladığımız mobil bir oyun.
 
-## Used package
+## Used packages
 
 -[ Low Poly Forklift ](https://assetstore.unity.com/packages/3d/props/industrial/low-poly-forklift-176653)
 
